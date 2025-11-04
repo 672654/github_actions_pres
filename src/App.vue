@@ -1,12 +1,12 @@
 <script setup lang="ts">
-
-</script>
+import NavBar from './components/NavBar.vue';
+  </script>
 
 
 <template>
-  <h1>Empty project</h1>
+  <NavBar />
 </template>
 
-<style scoped>
+<style>
 
 </style>
